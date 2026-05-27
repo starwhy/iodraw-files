@@ -16,8 +16,8 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;SD卡/EMMC&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" parent="1" vertex="1">
           <mxGeometry x="610" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;USB0外部接口&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="780" y="150" width="80" height="80" as="geometry" />
+        <mxCell id="szcSB4Q36HXhbUa7L8zt-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;USB0外部接口&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" parent="1" vertex="1">
+          <mxGeometry x="770" y="150" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;LCD+触摸&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="950" y="150" width="120" height="80" as="geometry" />
