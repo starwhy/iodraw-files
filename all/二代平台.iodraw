@@ -331,8 +331,8 @@
         <mxCell id="upIgtv5vC09vvtcci5Wg-2" value="原：&lt;span style=&quot;background-color: initial;&quot;&gt;Phase_PWM输出DAC&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PHASE_Trig输入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PHASE_CAP采样&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L1000：PHASE输入&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="530" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="upIgtv5vC09vvtcci5Wg-3" value="较L1000&lt;div&gt;+DAC_PWM&lt;/div&gt;&lt;div&gt;两个都有DAC_CLK&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="490" width="70" height="60" as="geometry" />
+        <mxCell id="upIgtv5vC09vvtcci5Wg-3" value="较L1000多了个&lt;span style=&quot;background-color: initial;&quot;&gt;DAC_PWM&lt;/span&gt;&lt;div&gt;两个都有DAC_CLK&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="490" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
