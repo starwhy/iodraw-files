@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="607" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="871" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,9 +283,6 @@
               <mxPoint x="2010" y="660.68" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-90" value="和M3000有区别吗" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="430" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-91" value="晶振，用M3000" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
           <mxGeometry x="1270" y="620" width="130" height="90" as="geometry" />
