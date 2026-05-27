@@ -325,7 +325,7 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-108" value="粘度检测？&lt;div&gt;参考电路？&lt;/div&gt;&lt;div&gt;挂载位置？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1710" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="OSC_CLK&lt;div&gt;OSC_AMP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="HV_ENABLE&lt;div&gt;OSC_AMP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1950" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
