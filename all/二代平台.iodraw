@@ -328,8 +328,8 @@
         <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="HV_ENABLE&lt;div&gt;HV_AMP&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1950" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upIgtv5vC09vvtcci5Wg-2" value="HV_ENABLE&lt;div&gt;HV_AMP&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="730" width="60" height="30" as="geometry" />
+        <mxCell id="upIgtv5vC09vvtcci5Wg-2" value="原：&lt;div&gt;Phase_PWM&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
