@@ -313,7 +313,7 @@
             <mxPoint x="1680" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-99" value="&lt;ul&gt;&lt;li&gt;文本开始信号：TEXT_SIGNAL&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp;列同步信号：COLUMN_SIGNAL&lt;/li&gt;&lt;li&gt;打印完成信号：PRINT_FINSH&lt;/li&gt;&lt;/ul&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="1" vertex="1">
+        <mxCell id="szcSB4Q36HXhbUa7L8zt-99" value="&lt;ul&gt;&lt;li&gt;文本开始信号：TEXT_SIGNAL&lt;/li&gt;&lt;li&gt;列同步信号：COLUMN_SIGNAL&lt;/li&gt;&lt;li&gt;打印完成信号：PRINT_FINSH&lt;/li&gt;&lt;/ul&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1510" y="870" width="340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-102" value="串转并和并转串？" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
