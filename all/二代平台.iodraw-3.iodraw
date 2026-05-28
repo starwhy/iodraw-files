@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="578" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,7 +368,7 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-10" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;过压保护&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1420" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-13" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;电机驱动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;加监控&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" vertex="1" parent="1">
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-13" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;电机驱动&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" vertex="1" parent="1">
           <mxGeometry x="1040" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7kjHLlO0XszM4gfBVUSG-14">
