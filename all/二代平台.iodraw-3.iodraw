@@ -369,6 +369,9 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-10" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;过压保护&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1420" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-12" value="电源检测，仿L1000" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2486" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
