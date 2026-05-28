@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="1066" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,12 +373,7 @@
           <mxGeometry x="1040" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-14" value="DS28+SP3232&lt;div&gt;/通信加密&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="1460" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7kjHLlO0XszM4gfBVUSG-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1480" y="1220" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="1760" y="1240" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
