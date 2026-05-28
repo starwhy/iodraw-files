@@ -394,7 +394,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="串转并？" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="串转并？&lt;div&gt;是否需要输出信号？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1420" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
