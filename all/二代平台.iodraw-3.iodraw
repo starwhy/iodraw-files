@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="1631" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2132" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,9 +300,6 @@
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-99" value="&lt;ul&gt;&lt;li&gt;文本开始信号：TEXT_SIGNAL&lt;/li&gt;&lt;li&gt;列同步信号：COLUMN_SIGNAL&lt;/li&gt;&lt;li&gt;打印完成信号：PRINT_FINSH&lt;/li&gt;&lt;/ul&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1510" y="870" width="340" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-102" value="串转并和并转串？" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="950" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-104" value="交互信号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="880" width="120" height="40" as="geometry" />
