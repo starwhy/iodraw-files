@@ -385,8 +385,8 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-14" value="并转串" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1240" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="并转串" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1250" width="200" height="130" as="geometry" />
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="串转并？" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1420" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
