@@ -385,9 +385,10 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-14" value="并转串" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1240" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7kjHLlO0XszM4gfBVUSG-19">
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2080" y="1485" as="targetPoint" />
+            <mxPoint x="1750.04" y="1485" as="targetPoint" />
+            <mxPoint x="1630" y="1450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="串转并？" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
