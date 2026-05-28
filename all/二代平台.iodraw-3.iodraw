@@ -372,6 +372,14 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-13" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;电机驱动&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" vertex="1" parent="1">
           <mxGeometry x="1040" y="820" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-14" value="DS28+SP3232&lt;div&gt;/通信加密&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1920" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7kjHLlO0XszM4gfBVUSG-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
