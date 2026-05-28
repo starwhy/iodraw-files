@@ -375,8 +375,8 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-8" value="方案一：参考L1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1030" y="2888" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-9" value="方案一：参考L1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2940" width="130" height="30" as="geometry" />
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-9" value="方案二：中断数脉冲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2940" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
