@@ -353,7 +353,10 @@
           <mxGeometry x="880" y="2820" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-2" value="压力传感器" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2720" width="100" height="60" as="geometry" />
+          <mxGeometry x="1120" y="2700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-3" value="压力传感器" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2710" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
