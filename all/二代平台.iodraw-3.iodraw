@@ -372,6 +372,11 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-13" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;电机驱动&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.375;" vertex="1" parent="1">
           <mxGeometry x="1040" y="820" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7kjHLlO0XszM4gfBVUSG-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-14" value="并转串" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1240" width="200" height="130" as="geometry" />
         </mxCell>
