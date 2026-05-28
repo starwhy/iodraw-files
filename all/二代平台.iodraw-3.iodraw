@@ -395,6 +395,9 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-19" value="串转并？&lt;div&gt;是否需要输出信号？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1420" width="200" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-22" value="相位？&lt;div&gt;1.喷头放大块需要？&lt;/div&gt;&lt;div&gt;2.飞行时间-保留&lt;/div&gt;&lt;div&gt;3.是否考虑L1000？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="855" width="130" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
