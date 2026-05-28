@@ -209,7 +209,7 @@
           <mxGeometry x="860" y="1810" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-70" value="电源检测，仿L1000" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="2476" width="140" height="60" as="geometry" />
+          <mxGeometry x="850" y="2476" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-75" value="IO*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1070" y="1600" width="60" height="30" as="geometry" />
