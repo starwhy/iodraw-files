@@ -246,7 +246,7 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-84" value="3842输出高压反馈" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="2600" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-86" value="相位？&lt;div&gt;1.喷头放大块需要？&lt;/div&gt;&lt;div&gt;2.飞行时间&lt;/div&gt;&lt;div&gt;3.是否考虑L1000？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
+        <mxCell id="szcSB4Q36HXhbUa7L8zt-86" value="相位？&lt;div&gt;1.喷头放大块需要？&lt;/div&gt;&lt;div&gt;2.飞行时间-保留&lt;/div&gt;&lt;div&gt;3.是否考虑L1000？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
           <mxGeometry x="1750" y="620" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -305,7 +305,7 @@
           <mxGeometry x="1620" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-108" value="粘度检测？&lt;div&gt;参考电路？&lt;/div&gt;&lt;div&gt;挂载位置？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="1670" width="140" height="90" as="geometry" />
+          <mxGeometry x="2240" y="1650" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="HV_ENABLE&lt;div&gt;HV_AMP&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1950" y="720" width="60" height="30" as="geometry" />
