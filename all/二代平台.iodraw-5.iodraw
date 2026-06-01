@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="kMVIzSKmILowqVb5_uBJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="szcSB4Q36HXhbUa7L8zt-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="2075.3333333333335" as="targetPoint" />
+            <mxPoint x="400" y="2075.6666666666665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-60" value="1路电磁阀输出自适应" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
