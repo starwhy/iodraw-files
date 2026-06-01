@@ -422,7 +422,7 @@
             <mxPoint x="460" y="2239.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kMVIzSKmILowqVb5_uBJ-13" value="单独控" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="kMVIzSKmILowqVb5_uBJ-12">
+        <mxCell id="kMVIzSKmILowqVb5_uBJ-13" value="过压保护" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="kMVIzSKmILowqVb5_uBJ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
