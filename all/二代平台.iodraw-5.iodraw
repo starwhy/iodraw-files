@@ -405,7 +405,7 @@
           <mxGeometry x="970" y="1995" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMVIzSKmILowqVb5_uBJ-4" value="是否仍需要转232？&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1935" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="1830" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
