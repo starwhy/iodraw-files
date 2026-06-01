@@ -413,7 +413,7 @@
             <mxPoint x="500" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kMVIzSKmILowqVb5_uBJ-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="kMVIzSKmILowqVb5_uBJ-10">
+        <mxCell id="kMVIzSKmILowqVb5_uBJ-11" value="单独控" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="kMVIzSKmILowqVb5_uBJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
