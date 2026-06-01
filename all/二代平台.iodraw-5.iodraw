@@ -183,7 +183,7 @@
           <mxGeometry x="1040" y="1640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-60" value="1路电磁阀输出自适应" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="2050" width="120" height="100" as="geometry" />
+          <mxGeometry x="460" y="2025" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="szcSB4Q36HXhbUa7L8zt-61" edge="1">
           <mxGeometry relative="1" as="geometry">
