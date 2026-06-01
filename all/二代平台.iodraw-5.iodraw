@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="691" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="401" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,13 +182,8 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-59" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;风扇*1？&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kMVIzSKmILowqVb5_uBJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="szcSB4Q36HXhbUa7L8zt-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="2075.6666666666665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-60" value="1路电磁阀输出自适应" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="2025" width="120" height="100" as="geometry" />
+          <mxGeometry x="450" y="2025" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="szcSB4Q36HXhbUa7L8zt-61" edge="1">
           <mxGeometry relative="1" as="geometry">
