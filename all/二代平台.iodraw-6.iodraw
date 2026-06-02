@@ -413,8 +413,8 @@
         <mxCell id="3wUb8bu0bjZJf90optFq-7" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;预留IO,个数？对象？&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3wUb8bu0bjZJf90optFq-8" value="粘度、液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="915" y="2898" width="80" height="30" as="geometry" />
+        <mxCell id="3wUb8bu0bjZJf90optFq-8" value="Measure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2960" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
