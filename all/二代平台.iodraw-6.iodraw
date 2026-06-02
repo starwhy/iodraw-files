@@ -416,7 +416,7 @@
         <mxCell id="3wUb8bu0bjZJf90optFq-8" value="Measure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="2950" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3wUb8bu0bjZJf90optFq-9" value="&lt;ul&gt;&lt;li&gt;文本开始信号：TEXT_SIGNAL&lt;/li&gt;&lt;li&gt;列同步信号：COLUMN_SIGNAL&lt;/li&gt;&lt;li&gt;打印完成信号：PRINT_FINSH&lt;/li&gt;&lt;/ul&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3wUb8bu0bjZJf90optFq-9" value="相位" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1730" y="180" width="340" height="310" as="geometry" />
         </mxCell>
       </root>
