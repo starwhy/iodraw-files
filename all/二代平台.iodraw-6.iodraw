@@ -398,7 +398,7 @@
         <mxCell id="kMVIzSKmILowqVb5_uBJ-2" value="调试？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="970" y="1925" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kMVIzSKmILowqVb5_uBJ-3" value="接主板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kMVIzSKmILowqVb5_uBJ-3" value="接主板，不再走232" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="1995" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMVIzSKmILowqVb5_uBJ-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
