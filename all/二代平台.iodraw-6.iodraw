@@ -410,9 +410,6 @@
         <mxCell id="3wUb8bu0bjZJf90optFq-1" value="回收检测" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1285" y="1865" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wUb8bu0bjZJf90optFq-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;背光，偏光电路处理？&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;屏幕选择？&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="1100" y="60" width="225" height="130" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
