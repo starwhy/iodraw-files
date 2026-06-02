@@ -416,8 +416,8 @@
         <mxCell id="3wUb8bu0bjZJf90optFq-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;1.屏幕选择；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;2.转接板或集成？&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="90" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3wUb8bu0bjZJf90optFq-7" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;RTC&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
+        <mxCell id="3wUb8bu0bjZJf90optFq-7" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;预留IO,个数？&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
