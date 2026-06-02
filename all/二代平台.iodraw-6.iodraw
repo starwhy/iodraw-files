@@ -336,7 +336,7 @@
           <mxGeometry x="930" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upIgtv5vC09vvtcci5Wg-10" value="电平5V?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="920" y="860" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=20;arrowHead=20;dx2=25;dy2=30;rotation=-180;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="880" y="2880" width="140" height="110" as="geometry" />
