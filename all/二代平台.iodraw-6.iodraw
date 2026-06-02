@@ -457,6 +457,9 @@
         <mxCell id="3wUb8bu0bjZJf90optFq-21" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;复位引脚？&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="880" y="1190" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3wUb8bu0bjZJf90optFq-22" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;RTC&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
