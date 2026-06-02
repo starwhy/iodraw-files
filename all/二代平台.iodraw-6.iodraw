@@ -350,8 +350,8 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-7" value="粘度液位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="910" y="2888" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-8" value="方案一：输入比较器，参考L1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="2888" width="200" height="30" as="geometry" />
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-8" value="方案一：光耦+输入比较器，参考L1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="2888" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-9" value="方案二：中断读IO，参考打印板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1035" y="2940" width="190" height="30" as="geometry" />
