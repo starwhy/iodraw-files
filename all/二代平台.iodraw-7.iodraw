@@ -460,8 +460,8 @@
         <mxCell id="vqjmQ7CH7v0qjsjOY-ee-1" value="RST是否保留?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="670" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vqjmQ7CH7v0qjsjOY-ee-2" value="HV_ARARM?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="1520" width="60" height="30" as="geometry" />
+        <mxCell id="vqjmQ7CH7v0qjsjOY-ee-2" value="HV_ARARM?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1520" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
