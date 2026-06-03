@@ -205,8 +205,8 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-70" value="电源检测，仿L1000" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="2476" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-75" value="IO*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="1600" width="60" height="30" as="geometry" />
+        <mxCell id="szcSB4Q36HXhbUa7L8zt-75" value="挂载位置？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="1600" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-76" value="3842升压电路，参考M3000,电源由使能控制" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1500.04" y="620" width="130" height="90" as="geometry" />
