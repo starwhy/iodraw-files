@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JnVX_50Ari-lrDn4r5hk">
-    <mxGraphModel dx="805" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,9 +243,6 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="szcSB4Q36HXhbUa7L8zt-76" target="szcSB4Q36HXhbUa7L8zt-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-84" value="3842输出高压反馈" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="2600" width="100" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-86" value="相位？&lt;div&gt;1.喷头放大块需要？&lt;/div&gt;&lt;div&gt;2.飞行时间-保留，挂载？&lt;/div&gt;&lt;div&gt;3.是否考虑L1000？&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
           <mxGeometry x="1750" y="620" width="150" height="90" as="geometry" />
         </mxCell>
@@ -343,7 +340,7 @@
           <mxGeometry x="1020" y="2560" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-3" value="回收检测" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="2650" width="100" height="60" as="geometry" />
+          <mxGeometry x="1020" y="2700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-4" value="输入捕获" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="2790" width="200" height="200" as="geometry" />
