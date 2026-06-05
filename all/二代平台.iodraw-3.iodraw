@@ -407,8 +407,8 @@
         <mxCell id="dMcoo3Lbiqpty2FdpCXh-4" value="充电高压采样3842" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="2700" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dMcoo3Lbiqpty2FdpCXh-5" value="偏转高压漏电采样" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="2640" width="100" height="60" as="geometry" />
+        <mxCell id="dMcoo3Lbiqpty2FdpCXh-5" value="电源电流采样" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2630" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
