@@ -304,7 +304,7 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-104" value="交互信号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="HV_ENABLE：引脚4 or 9?--&amp;gt;HV_CLK&lt;div&gt;HV_AMP&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="upIgtv5vC09vvtcci5Wg-1" value="HV_ENABLE：引脚4(--&amp;gt;HV_CLK) or 9?&lt;div&gt;HV_AMP&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1950" y="720" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upIgtv5vC09vvtcci5Wg-2" value="原：&lt;span style=&quot;background-color: initial;&quot;&gt;Phase_PWM输出DAC&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PHASE_Trig输入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PHASE_CAP采样&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L1000：PHASE输入&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
