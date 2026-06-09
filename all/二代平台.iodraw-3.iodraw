@@ -339,7 +339,7 @@
         <mxCell id="7kjHLlO0XszM4gfBVUSG-2" value="压力传感器" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2560" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7kjHLlO0XszM4gfBVUSG-3" value="回收检测" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7kjHLlO0XszM4gfBVUSG-3" value="回收检测" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7kjHLlO0XszM4gfBVUSG-4" value="输入捕获" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
