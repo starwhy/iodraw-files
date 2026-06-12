@@ -129,7 +129,7 @@
         <mxCell id="szcSB4Q36HXhbUa7L8zt-39" value="IO*2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="szcSB4Q36HXhbUa7L8zt-40" value="DS28+SP3232&lt;div&gt;/通信加密&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
+        <mxCell id="szcSB4Q36HXhbUa7L8zt-40" value="DS28&lt;div&gt;/通信加密&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1910" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="szcSB4Q36HXhbUa7L8zt-44" value="ULN2003A&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" parent="1" vertex="1">
